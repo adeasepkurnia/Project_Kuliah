@@ -1,0 +1,13 @@
+D:\Ade asep kurnia.MI 3A\Pemrograman Lanjut_18753001_MI 3A\UTS\Uts_18753001_Ade Asep Kurnia\Uts_18753001_Ade Asep Kurnia\bin\Debug\Uts_18753001_Ade Asep Kurnia.exe.config
+D:\Ade asep kurnia.MI 3A\Pemrograman Lanjut_18753001_MI 3A\UTS\Uts_18753001_Ade Asep Kurnia\Uts_18753001_Ade Asep Kurnia\bin\Debug\Uts_18753001_Ade Asep Kurnia.exe
+D:\Ade asep kurnia.MI 3A\Pemrograman Lanjut_18753001_MI 3A\UTS\Uts_18753001_Ade Asep Kurnia\Uts_18753001_Ade Asep Kurnia\bin\Debug\Uts_18753001_Ade Asep Kurnia.pdb
+D:\Ade asep kurnia.MI 3A\Pemrograman Lanjut_18753001_MI 3A\UTS\Uts_18753001_Ade Asep Kurnia\Uts_18753001_Ade Asep Kurnia\obj\Debug\Uts_18753001_Ade Asep Kurnia.csprojResolveAssemblyReference.cache
+D:\Ade asep kurnia.MI 3A\Pemrograman Lanjut_18753001_MI 3A\UTS\Uts_18753001_Ade Asep Kurnia\Uts_18753001_Ade Asep Kurnia\obj\Debug\Uts_18753001_Ade_Asep_Kurnia.Form1.resources
+D:\Ade asep kurnia.MI 3A\Pemrograman Lanjut_18753001_MI 3A\UTS\Uts_18753001_Ade Asep Kurnia\Uts_18753001_Ade Asep Kurnia\obj\Debug\Uts_18753001_Ade_Asep_Kurnia.Properties.Resources.resources
+D:\Ade asep kurnia.MI 3A\Pemrograman Lanjut_18753001_MI 3A\UTS\Uts_18753001_Ade Asep Kurnia\Uts_18753001_Ade Asep Kurnia\obj\Debug\Uts_18753001_Ade Asep Kurnia.csproj.GenerateResource.Cache
+D:\Ade asep kurnia.MI 3A\Pemrograman Lanjut_18753001_MI 3A\UTS\Uts_18753001_Ade Asep Kurnia\Uts_18753001_Ade Asep Kurnia\obj\Debug\Uts_18753001_Ade Asep Kurnia.exe
+D:\Ade asep kurnia.MI 3A\Pemrograman Lanjut_18753001_MI 3A\UTS\Uts_18753001_Ade Asep Kurnia\Uts_18753001_Ade Asep Kurnia\obj\Debug\Uts_18753001_Ade Asep Kurnia.pdb
+D:\Ade asep kurnia.MI 3A\Pemrograman Lanjut_18753001_MI 3A\UTS\Uts_18753001_Ade Asep Kurnia\Uts_18753001_Ade Asep Kurnia\obj\Debug\Uts_18753001_Ade_Asep_Kurnia.Form2.resources
+D:\Ade asep kurnia.MI 3A\Pemrograman Lanjut_18753001_MI 3A\UTS\Uts_18753001_Ade Asep Kurnia\Uts_18753001_Ade Asep Kurnia\obj\Debug\Uts_18753001_Ade_Asep_Kurnia.MDIParent1.resources
+D:\Ade asep kurnia.MI 3A\Pemrograman Lanjut_18753001_MI 3A\UTS\Uts_18753001_Ade Asep Kurnia\Uts_18753001_Ade Asep Kurnia\obj\Debug\Uts_18753001_Ade_Asep_Kurnia.Form3.resources
+D:\Ade asep kurnia.MI 3A\Pemrograman Lanjut_18753001_MI 3A\UTS\Uts_18753001_Ade Asep Kurnia\Uts_18753001_Ade Asep Kurnia\obj\Debug\Uts_18753001_Ade_Asep_Kurnia.HELP.resources
